@@ -1,44 +1,39 @@
-Project Overview
+# Azure Infrastructure for DinaSky Technologies
 
-DinaSky Technologies is a fictional aviation technology company providing cloud-based solutions for airports and airline operators.
+> Building a secure Azure infrastructure for a fictional Aviation Technology company.
 
-This project demonstrates how an Azure Administrator designs, deploys, and manages a secure Azure infrastructure for a medium-sized enterprise.
+---
 
-Company Profile
+## Project Status
 
-Industry
+🚧 Phase 1 — Planning
 
-✈️ Aviation Technology
+---
 
-Employees
+## Repository Structure
 
-50
+```
+architecture/
+docs/
+images/
+powershell/
+azure-cli/
+terraform/
+scripts/
+```
 
-Departments
+---
 
-IT
-Operations
-Finance
-Human Resources
+## Technologies
 
-Cloud Platform
+- Microsoft Azure
+- Azure Virtual Network
+- Azure Virtual Machines
+- Azure Storage
+- Azure Monitor
+- Microsoft Entra ID
+- RBAC
 
-Microsoft Azure
+---
 
-Project Goals
-Design Azure Infrastructure
-Secure Azure Resources
-Implement Identity Management
-Configure Virtual Networks
-Deploy Virtual Machines
-Implement Monitoring
-Configure Backup
-Apply RBAC
-Technologies
-Microsoft Azure
-Azure Virtual Network
-Azure VM
-Azure Storage
-Azure Monitor
-Microsoft Entra ID
-RBAC
+More content will be added as the project progresses.
